@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-08-21T22:27:36.605030",
+  "user_input": {
+    "age": 23,
+    "E1": 173.0,
+    "E2": 65.0,
+    "A2": "Average",
+    "C1": "No",
+    "M6": 100.0,
+    "D2": "Sometimes",
+    "D4": "Sometimes",
+    "D8": "Sometimes",
+    "D10": "Sometimes",
+    "D15": "Sometimes",
+    "job": "Doesn't hold an ordinary or supported job",
+    "F15": 0,
+    "M8": "Average",
+    "E17": "I don't share this with anyone",
+    "G1": "Yes",
+    "J2": "Once a month",
+    "J4": "Several times a week",
+    "J9": "Never",
+    "J17": 0
+  },
+  "prediction": "Medium",
+  "confidence": 0.61,
+  "recommendations": {
+    "health": "Maintain your current health routine and consider new activities",
+    "social": "Strengthen existing relationships and try new social activities",
+    "lifestyle": "Explore new hobbies or interests",
+    "professional": "Look for opportunities to grow in your career"
+  }
+}
