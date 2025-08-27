@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-08-21T23:29:45.291271",
+  "user_input": {
+    "age": 24,
+    "E1": 171.0,
+    "E2": 64.0,
+    "A2": "Average",
+    "C1": "No",
+    "M6": 200.0,
+    "D2": "Never",
+    "D4": "Never",
+    "D8": "Often",
+    "D10": "Often",
+    "D15": "Rarely",
+    "job": "Doesn't hold an ordinary or supported job",
+    "F15": 0,
+    "M8": "Bad",
+    "E17": "I don't share this with anyone",
+    "G1": "No",
+    "J2": "Less frequently",
+    "J4": "Less frequently",
+    "J9": "Never",
+    "J17": 0
+  },
+  "prediction": "High",
+  "confidence": 0.56,
+  "recommendations": {
+    "health": "Keep up your excellent health habits",
+    "social": "Continue nurturing your strong social connections",
+    "lifestyle": "Share your positive energy with others",
+    "professional": "Mentor others or take on leadership roles"
+  }
+}
